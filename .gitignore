@@ -8,7 +8,7 @@ venv/
 .env
 
 # Database
-events.db
+#events.db
 
 # Logs and debug files
 scraper.log
